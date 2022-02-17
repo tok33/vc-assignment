@@ -3,5 +3,5 @@ age = int(input("Enter your age"))
 
 if age > 50:
 	print("loser")
-elif:
+else:
 	print("hello " + str(name) + "!")
