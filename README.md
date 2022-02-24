@@ -1,16 +1,13 @@
-# vc-assignment
+# VC-Assignment
+The user is prompted to enter their name and age. The program will then greet the user unless they're above a certain age.
 
-Description:
-The user gives an input that is their  name and age, and then prints a message.
+# Usage
+First, download the latest release. Ensure python is installed on your computer, and then run the file using python.
 
+# Contributions
+To contribute to the project, create a fork on GitHub and make any changes or improvements. Once finished, create a pull request to this project. If the code is valid and will properly merge, we'll add it to the project. Thank you in advance for any help!
 
-How to use:
-To use the project, first you have to download the python file, and then using any source code editor, such as Visual Studio Code or Atom, and then run the python file.
-
-How to contribute:
-To contribute to this project, just create a fork on the Github and then using a source code editor you can run the code and make any changes or improvements to the code. Once you finish, create a pull request and if the code looks good, we'll see if we can intergate the code to our project. Thanks for any help that you can provide!
-
-
+# Credits
 Group Members:
-Justin Zeng
-Todd Kocher
+* Justin Zeng
+* Todd Kocher
